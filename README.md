@@ -66,12 +66,15 @@ python bin/train.py --cfg bin/jrdb19.yaml --ckpt DCCLA_JRDB2019.pth --evaluation
 ## Citation
 
 ```
-@article{guang2024dccla,
+@article{guang2025dccla,
   title={DCCLA: Dense Cross Connections with Linear Attention for LiDAR-based 3D Pedestrian Detection},
   author={Guang, Jinzheng and Wu, Shichao and Hu, Zhengxi and Zhang, Qianyi and Wu, Peng and Liu, Jingtai},
   journal={IEEE Transactions on Circuits and Systems for Video Technology},
-  year={2024},
-  publisher={IEEE}
+  year={2025},
+  volume={35},
+  number={5},
+  pages={4535-4548},
+  doi={10.1109/TCSVT.2024.3515996}
 }
 ```
 
